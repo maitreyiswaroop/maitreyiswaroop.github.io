@@ -6,10 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<div style="width:100%; height:100vh; overflow:auto;">
-    <object data="/files/Maitreyi_Resume_PhD_Long_copy.pdf" type="application/pdf" style="width:100%; height:100%;">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/Maitreyi_Resume_PhD_Long_copy.pdf">Download PDF</a>.</p>
-    </object>
-</div>
 
-<a href="/files/Maitreyi_Resume_PhD_Long_copy.pdf" download>Download My Resume</a>
+<object data="/files/Maitreyi_Resume_PhD_Long_copy.pdf" type="application/pdf" width="100%" height="100%">
+    <p>It appears you don't have a PDF plugin for this browser. No problem... you can <a href="/files/Maitreyi_Resume_PhD_Long_copy.pdf" download>click here to download the PDF file.</a></p>
+</object>
+
+
