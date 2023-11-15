@@ -11,3 +11,5 @@ redirect_from:
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/Maitreyi_Resume_PhD_Long_copy.pdf">Download PDF</a>.</p>
     </object>
 </div>
+
+<a href="/files/Maitreyi_Resume_PhD_Long_copy.pdf" download>Download My Resume</a>

@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Miscellaneous"
+permalink: /misc/
+author_profile: true
+---
+<!-- include gif from /images/MSite_Work_In_Progress_.gif -->
+<img src="/images/MSite_Work_In_Progress_.gif" alt="Work in progress" style="width:500px;height:600px;">
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
