@@ -12,6 +12,7 @@ redirect_from:
 
 About me.
 ======
-Hi! I'm Maitreyi, a final-year BSc. + MSc. student at [IIT Kharagpur](https://www.iitkgp.ac.in/) majoring in Mathematics & Computing. Along with my academic studies I am currently also interning at [Mila - Quebec AI Institute](https://mila.quebec/en/) at [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group. In Summer 2022 I interned at [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
+Hi! I'm Maitreyi, a final-year BSc. + MSc. student at [IIT Kharagpur](https://www.iitkgp.ac.in/) majoring in Mathematics & Computing. Along with my academic studies I am currently interning at [Mila - Quebec AI Institute](https://mila.quebec/en/) at [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group. 
+In Summer 2022 I interned at [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
 My research interests lie broadly in Machine Learning, and more specifically in probabilistic models, causal inference, representation learning and graph machine learning.
 
