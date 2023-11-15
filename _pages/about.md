@@ -17,5 +17,5 @@ In Summer 2022 I interned at [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws
 
 I am fascinated by algorithms and their applications to life sciences and social sciences. My research interests lie broadly in Machine Learning, and more specifically in probabilistic models, causal inference, representation learning and graph machine learning.
 
-I also enjoy running (having run track in high school and college), playing squash, reading and playing the piano. I am an avid quizzer and an active memeber and governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://maitreyiswaroop.github.io/misc/). I also like to dabble in translating texts and making stop motion animations-which you might come across on some pages!
+I also enjoy running (having run track in high school and college), playing squash, reading and playing the piano. I am an avid quizzer and an active member and governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://maitreyiswaroop.github.io/misc/). I also like to dabble in translating texts and making stop motion animations-which you might come across on some pages!
 
