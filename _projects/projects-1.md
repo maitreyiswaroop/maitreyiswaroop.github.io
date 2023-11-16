@@ -4,6 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/Dee
 collection: projects
 venue: 'NeurIPS 2023 Workshop on Causal Representation Learning'
 paperurl: 'https://neurips.cc/virtual/2023/77562'
+permalink: /projects/DeepCFL
 # citation: 'Dhanya'
 ---
 Poster on our proposed framework DeepCFL: a simple self-supervised method that learns macro variables and their relations.
