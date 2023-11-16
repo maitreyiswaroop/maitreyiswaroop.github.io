@@ -1,6 +1,6 @@
 ---
 title: "Modern Algebra"
-collection: teaching
+collection: courses
 type: "Undergraduate course"
 permalink: /courses/Sem6/ModAlg
 venue: "Indian Institute of Technology, Kharagpur"

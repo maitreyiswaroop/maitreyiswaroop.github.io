@@ -1,6 +1,6 @@
 ---
 title: "Numerical Solutions to Oridnary and Partial Differential Equations"
-collection: teaching
+collection: courses
 type: "Undergraduate course"
 permalink: /courses/Sem4/NSOPDE
 venue: "Indian Institute of Technology, Kharagpur"
