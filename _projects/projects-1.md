@@ -6,4 +6,5 @@ venue: 'NeurIPS 2023 Workshop on Causal Representation Learning'
 paperurl: 'https://neurips.cc/virtual/2023/77562'
 permalink: /projects/2023/Mila/
 ---
+
 Poster of our proposed framework DeepCFL: a simple self-supervised method that learns macro variables and their relations.
