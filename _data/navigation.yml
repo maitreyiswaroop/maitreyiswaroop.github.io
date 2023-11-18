@@ -1,25 +1,24 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
+  - title: "Courses"
+    url: /courses/  
+
   - title: "Projects"
     url: /projects/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Misc."
+    url: /misc/
 
-  - title: "Courses"
-    url: /courses/    
+  # - title: "Talks"
+  #   url: /talks/      
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "Misc."
-    url: /misc/
-
   # - title: "Guide"
   #   url: /markdown/
