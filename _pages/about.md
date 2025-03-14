@@ -12,10 +12,14 @@ redirect_from:
 <!-- 
 About me. -->
 <!-- ====== -->
-Hi! I'm Maitreyi, a final-year BSc. + MSc. student at [IIT Kharagpur](https://www.iitkgp.ac.in/) majoring in Mathematics & Computing. Along with my academic studies I am currently interning at [Mila - Quebec AI Institute](https://mila.quebec/en/) at [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group. 
+Hi! I'm Maitreyi, a first-year PhD student in the (Machine Learning Department)[https://www.ml.cmu.edu/] at Carnegie Mellon University, where I am fortunate to be advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
+
+Previously, I was at [IIT Kharagpur](https://www.iitkgp.ac.in/), where I majored in Mathematics & Computing. 
+
+I also collaborated with [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group at [Mila - Quebec AI Institute](https://mila.quebec/en/), from Summer 2023-24. 
 In Summer 2022 I interned at [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
 
-I am fascinated by algorithms and their applications to life sciences and social sciences. My research interests lie broadly in Machine Learning, and more specifically in probabilistic models, causal inference, representation learning and graph machine learning.
+ My research interests lie broadly in Machine Learning, and more specifically in probabilistic models, causal inference, representation learning and graph machine learning.
 
-I also enjoy running (having run track in high school and college), playing squash, reading and playing the piano. I am an avid quizzer and an active member and governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://sites.google.com/view/maitreyiswaroop/quizzing). I also like to dabble in translating texts and making stop motion animations-which you might come across on some pages!
+I also enjoy running (having run track in high school and college), playing squash, reading and playing the piano. I am an avid quizzer was the governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://sites.google.com/view/maitreyiswaroop/quizzing). I also like to dabble in making stop motion animations-which you might come across on some pages!
 
