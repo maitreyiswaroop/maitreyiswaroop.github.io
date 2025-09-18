@@ -14,7 +14,7 @@ About me. -->
 <!-- ====== -->
 Hi! I'm Maitreyi, a first-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
 
-Previously, I was at [IIT Kharagpur](https://www.iitkgp.ac.in/), where I majored in Mathematics & Computing. 
+Previously, I was at [IIT Kharagpur](https://www.iitkgp.ac.in/), where I majored in Mathematics & Computing, and was fortunate to work with [Prof. Partha Pratim Chakrabarti](https://cse.iitkgp.ac.in/~ppchak/) for my master's thesis. 
 
 I’ve had the privilege of working with [Amit Sharma](https://amitsharma.in/) and [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) at Microsoft Research (Summer 2025), with [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group at [Mila - Quebec AI Institute](https://mila.quebec/en/) (Summer 2023-24), and earlier with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
 

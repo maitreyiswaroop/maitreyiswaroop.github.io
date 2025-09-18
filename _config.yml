@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Maitreyi"
   avatar           : "Maitreyi_pic.jpeg"
-  bio              : "BSc. + MSc. student of Mathematics & Computing at IIT Kharagpur"
-  location         : "Gurgaon, India"
+  bio              : "PhD student, MLD@CMU" 
+  location         : "Pittsburgh, PA (USA)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "maitreyiswaroop@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yYjyiMkAAAAJ"
+  email            :  "mswaroop@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -190,7 +190,7 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
-  projects:
+  research:
     output: true
     permalink: /:collection/:path/
   misc:
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _research
   - scope:
       path: ""
-      type: projects
+      type: research
     values:
       layout: single
       author_profile: true

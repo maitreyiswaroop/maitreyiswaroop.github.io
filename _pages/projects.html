@@ -1,61 +1,108 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
-<!-- {% include base_path %}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %} -->
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<link rel="stylesheet" type="text/css" href="{{ '/stylesheet.css' | relative_url }}">
 
-<h2>Internships</h2>
+<div class="research-container">
+  <section class="internships-section">
+    <h2>Select projects</h2>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-<tr>
-  <td width="75%" valign="middle">
-     <a href="https://neurips.cc/virtual/2023/77562">
-      <span class="papertitle">Learning Macro Variables with Auto-encoders
-</span>
-    </a>
-    <br>
-	<a href="https://www.dsridhar.com/">Dhanya Sridhar</a>,
-    <a href="https://ericelmoznino.github.io/">Eric Elmoznino</a>,
-    <strong>Maitreyi Swaroop</strong>
-    <br>
-	<em>NeurIPS 2023 Workshop on Causal Representation Learning</em>, 2023
-    <br>
-    <p></p>
-    <p>
-      Poster of our proposed framework DeepCFL: a simple self-supervised method that learns macro variables and their relations.
-      <a href="https://github.com/maitreyiswaroop/DeepCFL-Repo">Github repository</a> for our experiments using DeepCFL.     
-    </p>
-  </td>
-</tr> 
+    <table class="research-table">
+      <tbody>
+        <tr>
+          <td class="project-image">
+            <div class="placeholder-image">
+              <span>📊</span>
+            </div>
+          </td>
+          <td class="project-content">
+            <div class="project-title">
+              Distributionally Robust Feature Selection
+            </div>
+            <div class="project-authors">
+              <strong>Maitreyi Swaroop</strong>,
+              <a href="https://www.cmu.edu/dietrich/sds/people/faculty/tamar-krishnamurti.html">Tamar Krishnamurti</a>,
+              <a href="https://bryanwilder.github.io/">Bryan Wilder</a>
+            </div>
+            <div class="project-venue">
+              <em>NeurIPS 2025 Conference</em>, 2025
+            </div>
+            <div class="project-description">
+              <!-- Our work on distributionally robust feature selection methods. -->
+            </div>
+          </td>
+        </tr>
 
-<tr>
-  <td width="75%" valign="middle">
-     <a href="https://github.com/maitreyiswaroop/Threshold-Test-MPI/blob/main/">
-      <span class="papertitle">Inferring Groups and Thresholds
-</span>
-    </a>
-    <br>
-	<a href="https://people.mpi-sws.org/~manuelgr/">Manuel Gomez Rodriguez</a>,
-    <a href="https://ninacobe.github.io/">Nina Corvelo Benz</a>,
-    <strong>Maitreyi Swaroop</strong>
-    <br>
-      2022
-    <br>
-    <p></p>
-    <p>
-      <a href="https://github.com/maitreyiswaroop/Threshold-Test-MPI/blob/main/README.md">Github repository</a> for our experiments using proposed framework to infer groups and thresholds to determine discrimination.
-    </p>
-  </td>
-</tr> 
-</tbody>
-</table>
+        <tr>
+          <td class="project-image">
+            <div class="placeholder-image">
+              <img src="{{ '/images/DeepCFL_preview.png' | relative_url }}" alt="DeepCFL"
+                style="width: 100%; height: 100%; object-fit: cover; border-radius: 6px;">
+            </div>
+          </td>
+          <td class="project-content">
+            <div class="project-title">
+              <a href="https://neurips.cc/virtual/2023/77562">
+                Learning Macro Variables with Auto-encoders
+              </a>
+              <a href="https://github.com/maitreyiswaroop/DeepCFL-Repo" class="github-icon-link"
+                title="Project Repository">
+                <i class="fab fa-github" aria-hidden="true"></i>
+              </a>
+            </div>
+            <div class="project-authors">
+              <strong>Maitreyi Swaroop</strong>,
+              <a href="https://ericelmoznino.github.io/">Eric Elmoznino</a>,
+              <a href="https://www.dsridhar.com/">Dhanya Sridhar</a>,
+            </div>
+            <div class="project-venue">
+              <em>NeurIPS 2023 Workshop on Causal Representation Learning</em>, 2023
+            </div>
+            <div class="project-description">
+              <a href="{{ '/files/DeepCFL_poster_Vertical.pdf' | relative_url }}">Poster</a> of our proposed framework
+              DeepCFL: a simple self-supervised method that learns macro variables and
+              their relations.
+            </div>
+          </td>
+        </tr>
 
-<h2>Other Projects</h2>
-For a brief overview of my projects, please see my <a href="https://maitreyiswaroop.github.io/cv/">resume</a>.
+        <tr>
+          <td class="project-image">
+            <div class="placeholder-image">
+              <span>🔍</span>
+            </div>
+          </td>
+          <td class="project-content">
+            <div class="project-title">
+              <a href="https://github.com/maitreyiswaroop/Threshold-Test-MPI/blob/main/">
+                Inferring Groups and Thresholds
+              </a>
+              <a href="https://github.com/maitreyiswaroop/Threshold-Test-MPI/blob/main/" class="github-icon-link"
+                title="Project Repository">
+                <i class="fab fa-github" aria-hidden="true"></i>
+              </a>
+            </div>
+            <div class="project-authors">
+              <strong>Maitreyi Swaroop</strong>,
+              <a href="https://ninacobe.github.io/">Nina Corvelo Benz</a>
+              <a href="https://people.mpi-sws.org/~manuelgr/">Manuel Gomez Rodriguez</a>,
+            </div>
+            <div class="project-venue">2022</div>
+            <div class="project-description">
+              Our proposed framework to infer groups and thresholds to identify discrimination.
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="other-research-section">
+    <h2>Other Projects</h2>
+    <p>For a brief overview of my research, please see my <a href="{{ '/cv/' | relative_url }}">resume</a>.</p>
+  </section>
+</div>
