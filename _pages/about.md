@@ -12,14 +12,13 @@ redirect_from:
 <!-- 
 About me. -->
 <!-- ====== -->
-Hi! I'm Maitreyi, a first-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, where I am fortunate to be advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
+Hi! I'm Maitreyi, a first-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
 
 Previously, I was at [IIT Kharagpur](https://www.iitkgp.ac.in/), where I majored in Mathematics & Computing. 
 
-I also collaborated with [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group at [Mila - Quebec AI Institute](https://mila.quebec/en/), from Summer 2023-24. 
-In Summer 2022 I interned at [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
+I’ve had the privilege of working with [Amit Sharma](https://amitsharma.in/) and [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) at Microsoft Research (Summer 2025), with [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group at [Mila - Quebec AI Institute](https://mila.quebec/en/) (Summer 2023-24), and earlier with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
 
-My research interests span causal machine learning, developing methods robust to distribution shifts, and small model optimization techniques.
+My research interests span causal machine learning, developing methods robust to distribution shifts, and small model optimization techniques. Always happy to chat about these - especially if you're into theory-meets-practice conversations.
 
 I also enjoy running (having run track in high school and college), playing squash, reading and playing the piano. I am an avid quizzer was the governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://sites.google.com/view/maitreyiswaroop/quizzing). I also like to dabble in making stop motion animations - which you might come across on some pages!
 
