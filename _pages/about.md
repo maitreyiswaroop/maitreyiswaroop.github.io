@@ -12,7 +12,7 @@ redirect_from:
 <!-- 
 About me. -->
 <!-- ====== -->
-Hi! I'm Maitreyi, a first-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
+Hi! I'm Maitreyi, a second-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
 
 Previously, I was at [IIT Kharagpur](https://www.iitkgp.ac.in/), where I majored in Mathematics & Computing, and was fortunate to work with [Prof. Partha Pratim Chakrabarti](https://cse.iitkgp.ac.in/~ppchak/) for my master's thesis. 
 
