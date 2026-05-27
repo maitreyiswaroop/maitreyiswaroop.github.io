@@ -20,8 +20,8 @@ My research interests span causal machine learning, developing methods robust to
 
 ## News
 
-- **January 2026:** Poster at the Simons *Bridging Prediction and Intervention Problems in Social Systems* workshop at Berkeley. [[poster]]({{ base_path }}/files/CRL-HTE-Simons-poster.pdf){:target="_blank" rel="noopener"}
+- **January 2026:** Poster at the *Bridging Prediction and Intervention Problems in Social Systems* workshop at Simons Institute in Berkeley. [[poster]]({{ base_path }}/files/CRL-HTE-Simons-poster.pdf){:target="_blank" rel="noopener"}
 - **December 2025:** Paper on *Distributionally Robust Feature Selection* accepted at NeurIPS'25. [[arXiv]](https://arxiv.org/abs/2510.21113){:target="_blank" rel="noopener"}
 - **August 2024:** Started my PhD at Carnegie Mellon University. 
 
-I also enjoy running (having run track in high school and college), playing squash, reading, and playing the piano. I am an avid quizzer was the governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://sites.google.com/view/maitreyiswaroop/quizzing). I also like to dabble in making stop motion animations - which you might come across on some pages!
+I enjoy running (having run track in high school and college), playing squash, reading, and playing the piano. I am an avid quizzer was the governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://sites.google.com/view/maitreyiswaroop/quizzing). I also like to dabble in making stop motion animations - which you might come across on some pages!
