@@ -13,12 +13,15 @@ redirect_from:
 About me. -->
 <!-- ====== -->
 Hi! I'm Maitreyi, a second-year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Bryan Wilder](https://bryanwilder.github.io/). 
-
 Previously, I was at [IIT Kharagpur](https://www.iitkgp.ac.in/), where I majored in Mathematics & Computing, and was fortunate to work with [Prof. Partha Pratim Chakrabarti](https://cse.iitkgp.ac.in/~ppchak/) for my master's thesis. 
+In the past, I’ve had the privilege to work with [Amit Sharma](https://amitsharma.in/) and [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) at Microsoft Research (Summer 2025), with [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group at [Mila - Quebec AI Institute](https://mila.quebec/en/) (Summer 2023-24), and earlier with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) (Summer 2022).
 
-In the past, I’ve had the privilege of working with [Amit Sharma](https://amitsharma.in/) and [Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/) at Microsoft Research (Summer 2025), with [Prof. Dhanya Sridhar](https://www.dsridhar.com/)'s Causal ML Research Group at [Mila - Quebec AI Institute](https://mila.quebec/en/) (Summer 2023-24), and earlier with [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)'s Human-Centric Machine Learning Group at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) (Summer 2022).
+My research interests span causal machine learning, developing methods robust to distribution shifts, and AI alignment and safety. Always happy to chat about these - especially if you're into theory-meets-practice conversations.
 
-My research interests span causal machine learning, developing methods robust to distribution shifts, and small model optimization techniques. Always happy to chat about these - especially if you're into theory-meets-practice conversations.
+## News
+
+- **January 2026:** Poster at the Simons *Bridging Prediction and Intervention Problems in Social Systems* workshop at Berkeley. [[poster]]({{ base_path }}/files/CRL-HTE-Simons-poster.pdf){:target="_blank" rel="noopener"}
+- **December 2025:** Paper on *Distributionally Robust Feature Selection* accepted at NeurIPS'25. [[arXiv]](https://arxiv.org/abs/2510.21113){:target="_blank" rel="noopener"}
+- **August 2024:** Started my PhD at Carnegie Mellon University. 
 
 I also enjoy running (having run track in high school and college), playing squash, reading, and playing the piano. I am an avid quizzer was the governor of the IIT Kharagpur Quiz Club. You can find some of my sets [here](https://sites.google.com/view/maitreyiswaroop/quizzing). I also like to dabble in making stop motion animations - which you might come across on some pages!
-
