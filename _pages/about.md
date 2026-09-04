@@ -20,7 +20,7 @@ My research interests span causal machine learning, developing methods robust to
 
 ## News
 
-- **January 2026:** Poster at the *Bridging Prediction and Intervention Problems in Social Systems* workshop at Simons Institute in Berkeley. [[poster]]({{ base_path }}/files/CRL-HTE-Simons-poster.pdf){:target="_blank" rel="noopener"} [[preprint]]({{ base_path }}/files/representation-learning-hte-estimation.pdf){:target="_blank" rel="noopener"} (arXiv link coming soon)
+- **January 2026:** Poster at the *Bridging Prediction and Intervention Problems in Social Systems* workshop at Simons Institute in Berkeley. [[poster]]({{ base_path }}/files/CRL-HTE-Simons-poster.pdf){:target="_blank" rel="noopener"} [[preprint]]({{ base_path }}/preprints/representation-learning-hte/){:target="_blank" rel="noopener"} (arXiv link coming soon)
 - **December 2025:** Paper on *Distributionally Robust Feature Selection* accepted at NeurIPS'25. [[arXiv]](https://arxiv.org/abs/2510.21113){:target="_blank" rel="noopener"}
 - **August 2024:** Started my PhD at Carnegie Mellon University. 
 
